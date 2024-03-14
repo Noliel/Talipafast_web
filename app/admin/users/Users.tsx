@@ -40,11 +40,11 @@ export default function Users() {
         <table className="table table-zebra">
           <thead>
             <tr>
-              <th>id</th>
-              <th>name</th>
-              <th>email</th>
-              <th>admin</th>
-              <th>actions</th>
+              <th>ID</th>
+              <th>NAME</th>
+              <th>EMAIL</th>
+              <th>ADMIN</th>
+              <th>ACTIONS</th>
             </tr>
           </thead>
           <tbody>

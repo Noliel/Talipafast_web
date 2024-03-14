@@ -211,7 +211,7 @@ export default async function SearchPage({
               <ProductItem key={product.slug} product={product} />
             ))}
           </div>
-          <div className="join">
+          {/*           <div className="join">
             {products.length > 0 &&
               Array.from(Array(pages).keys()).map((p) => (
                 <Link
@@ -224,7 +224,7 @@ export default async function SearchPage({
                   {p + 1}
                 </Link>
               ))}
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

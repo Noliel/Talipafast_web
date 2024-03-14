@@ -71,12 +71,12 @@ export default function Products() {
         <table className="table table-zebra">
           <thead>
             <tr>
-              <th>id</th>
-              <th>name</th>
-              <th>price</th>
-              <th>category</th>
-              <th>count in stock</th>
-              <th>actions</th>
+              <th>ID</th>
+              <th>NAME</th>
+              <th>PRICE</th>
+              <th>CATEGORY</th>
+              <th>COUNT IN STOCK</th>
+              <th>ACTIONS</th>
             </tr>
           </thead>
           <tbody>
